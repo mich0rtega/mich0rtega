@@ -9,7 +9,14 @@
 
 - 📫 How to reach me **caro.orte0207@gmail.com**
 
-- 📄 Know about my experiences [Product Manager & Backend Developer specializing in ERP solutions. Key achievements: ✅ 90% inventory accuracy at ALPRO ✅ 35% faster deployments via CI/CD ✅ Developed SIAC system (Django/React) [Download Full Resume](https://docs.google.com/document/d/1pCZn1lGw7T8_RnkP4X5sbr5y3HzGHDaZ/edit?usp=sharing&ouid=109792664181737895529&rtpof=true&sd=true) | [LinkedIn](www.linkedin.com/in/michelle-ortega-58208732b)](Product Manager & Backend Developer specializing in ERP solutions. Key achievements: ✅ 90% inventory accuracy at ALPRO ✅ 35% faster deployments via CI/CD ✅ Developed SIAC system (Django/React) [Download Full Resume](https://docs.google.com/document/d/1pCZn1lGw7T8_RnkP4X5sbr5y3HzGHDaZ/edit?usp=sharing&ouid=109792664181737895529&rtpof=true&sd=true) | [LinkedIn](www.linkedin.com/in/michelle-ortega-58208732b))
+- 📄 Know about my experiences [Product Manager & Backend Developer specializing in ERP solutions.
+- Key achievements:
+- ✅ 90% inventory accuracy at ALPRO
+- ✅ 35% faster deployments via CI/CD
+- ✅ Developed SIAC system (Django/React) [Download Full Resume](https://drive.google.com/file/d/1Qaphg2NqfJ6T3Ws-CuNUL9abqFSbp2us/view?usp=sharing) | [LinkedIn](www.linkedin.com/in/michelle-ortega-58208732b)](Product Manager & Backend Developer specializing in ERP solutions.
+- Key achievements:
+-  ✅ 90% inventory accuracy at ALPRO
+-  ✅ 35% faster deployments via CI/CD ✅ Developed SIAC system (Django/React) [Download Full Resume](https://docs.google.com/document/d/1pCZn1lGw7T8_RnkP4X5sbr5y3HzGHDaZ/edit?usp=sharing&ouid=109792664181737895529&rtpof=true&sd=true) | [LinkedIn](www.linkedin.com/in/michelle-ortega-58208732b))
 
 - ⚡ Fun fact **🍓¡Soy la versión tech de Rosita Fresita!🍓**
 
