@@ -36,10 +36,10 @@
 <h3 align="left">🧠 My Projects:</h3>
 
 <p align="left">
-  <a href="https://github.com/mich0rtega/SIAC" target="_blank">
-    <img src="https://github.com/GEMELX-TECHNOLOGY/ALPRO?style=for-the-badge&logo=python&logoColor=white" alt="SIAC Project" />
+  <a href="https://github.com/GEMELX-TECHNOLOGY/ALPRO" target="_blank">
+    <img src="https://img.shields.io/badge/SIAC%20(Django%2FReact)-4B8BBE?style=for-the-badge&logo=django&logoColor=white" alt="SIAC Project" />
   </a>
-  <a href="https://github.com/mich0rtega/MEDBAND" target="_blank">
+  <a href="https://github.com/GEMELX-TECHNOLOGY/doctor_pena_backend" target="_blank">
     <img src="https://img.shields.io/badge/MEDBAND%20(Healthcare%20Platform)-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="MEDBAND Project" />
   </a>
 </p>
