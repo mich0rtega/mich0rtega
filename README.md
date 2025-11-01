@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michelle Ortega</h1>
 <h3 align="center">Backend Developer | Python & Node JS Specialist | DevOps Practitioner</h3>
 
-- 🔭 I’m currently working on **MEDBAND**
+- 🔭 I’m currently working on **AU DAM PROJECT**
 
 - 🌱 I’m currently learning **REACT, AWS , ENGLISH**
 
