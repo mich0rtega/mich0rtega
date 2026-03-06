@@ -1,45 +1,286 @@
-<h1 align="center">Hi 👋, I'm Michelle Ortega</h1>
-<h3 align="center">Backend Developer | Python & Node JS Specialist | DevOps Practitioner</h3>
+<!-- ============================================================
+     MICHELLE ORTEGA — GitHub Profile README
+     Theme: Neon Green / Black  |  Tux Linux Edition 🐧
+     ============================================================ -->
 
-- 🔭 I’m currently working on **AU DAM PROJECT**
+<div align="center">
 
-- 🌱 I’m currently learning **REACT, AWS , ENGLISH**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,100:00ff41&height=200&section=header&text=Michelle%20Ortega&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20DBA%20%E2%80%A2%20Software%20Architect%20%E2%80%A2%20Cloud%20%26%20Data%20Engineer&descSize=14&descAlignY=60&descColor=39ff14"/>
 
-- 👯 I’m looking to collaborate on [GEMLEX](https://github.com/GEMELX-TECHNOLOGY)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+Michelle+Ortega+%40+Mich0rtega;%24+uname+-a+%E2%86%92+Linux+%F0%9F%90%A7+%23+obviously;%24+sudo+apt+install+passion-for-databases;%24+docker+run+--name+mich+problem-solver%3Alatest;%24+git+log+--oneline+%23+building+cool+stuff...)](https://git.io/typing-svg)
 
-- 📫 How to reach me **caro.orte0207@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [Product Manager & Backend Developer specializing in ERP solutions.
-- Key achievements:
-- ✅ 90% inventory accuracy at ALPRO
-- ✅ 35% faster deployments via CI/CD
-- ✅ Developed SIAC system (Django/React) [Download Full Resume](https://drive.google.com/file/d/1Qaphg2NqfJ6T3Ws-CuNUL9abqFSbp2us/view?usp=sharing) | [LinkedIn](www.linkedin.com/in/michelle-ortega-58208732b)](Product Manager & Backend Developer specializing in ERP solutions.
-- Key achievements:
--  ✅ 90% inventory accuracy at ALPRO
--  ✅ 35% faster deployments via CI/CD ✅ Developed SIAC system (Django/React) [Download Full Resume](https://docs.google.com/document/d/1pCZn1lGw7T8_RnkP4X5sbr5y3HzGHDaZ/edit?usp=sharing&ouid=109792664181737895529&rtpof=true&sd=true) | [LinkedIn](www.linkedin.com/in/michelle-ortega-58208732b))
+![Visitors](https://komarev.com/ghpvc/?username=Mich0rtega&color=00ff41&style=for-the-badge&label=VISITAS+AL+PERFIL)
+[![Followers](https://img.shields.io/github/followers/Mich0rtega?style=for-the-badge&color=00ff41&labelColor=0a0a0a&label=Followers)](https://github.com/Mich0rtega)
+![Linux](https://img.shields.io/badge/🐧_Linux-lover-00ff41?style=for-the-badge&labelColor=0a0a0a)
 
-- ⚡ Fun fact **🍓¡Soy la versión tech de Rosita Fresita!🍓**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michelle-ortega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelle-ortega" height="30" width="40" /></a>
-<a href="https://instagram.com/ofmich0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ofmich0" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mich0rtega&show_icons=true&locale=en" alt="mich0rtega" /></p>
+</div>
 
 ---
 
-<h3 align="left">🧠 My Projects:</h3>
+<!--  ██████╗  █████╗ ███████╗██╗  ██╗██████╗  ██████╗  █████╗ ██████╗ ██████╗  -->
+<!-- ═══════════════════  DASHBOARD ROW 1  ═══════════════════════════════════════ -->
 
-<p align="left">
-  <a href="https://github.com/GEMELX-TECHNOLOGY/ALPRO" target="_blank">
-    <img src="https://img.shields.io/badge/SIAC%20(Django%2FReact)-4B8BBE?style=for-the-badge&logo=django&logoColor=white" alt="SIAC Project" />
-  </a>
-  <a href="https://github.com/GEMELX-TECHNOLOGY/doctor_pena_backend" target="_blank">
-    <img src="https://img.shields.io/badge/MEDBAND%20(Healthcare%20Platform)-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="MEDBAND Project" />
-  </a>
-</p>
+<table width="100%">
+<tr>
+<!-- ── LEFT: ABOUT ME ─────────────────────────────────── -->
+<td width="50%" valign="top">
+
+### 🐧 `$ cat about_me.sh`
+
+```bash
+#!/bin/bash
+# ==============================
+#  Michelle Ortega — Mich0rtega
+# ==============================
+
+NAME="Michelle Ortega"
+ALIAS="Mich0rtega"
+OS="Linux 🐧 (y no hay otro)"
+FAVORITE_ANIMAL="Tux, el pingüino de Linux"
+
+ROLES=(
+  "🌐 Full Stack Developer"
+  "🗄️  DBA — Amante de las DBs"
+  "🏗️  Software Architect"
+  "☁️  Solutions Architect"
+  "📋 Project Manager"
+  "☁️  Cloud Engineer"
+  "📊 Data Engineer"
+)
+
+LANGUAGES=("TypeScript" "Python" "JavaScript")
+STATUS="🟢 online & deploying"
+
+echo "En Linux confiamos. En los datos vivimos."
+```
+
+</td>
+<!-- ── RIGHT: TUX HIGHLIGHT ───────────────────────────── -->
+<td width="50%" valign="top" align="center">
+
+### 🐧 Mi animal favorito
+
+```
+        .-"""-.
+       /        \
+      /_  __   _ \
+     | )/\  /\| |      T  U  X
+     |/  \/\/  \|
+      \  (oo)  /     El pingüino más
+       \  \/  /      famoso del mundo
+        \ || /
+    .----'||'----.
+   /  Mich0rtega  \
+  /________________\
+  "In Tux We Trust"
+```
+
+![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-00ff41?style=for-the-badge&logo=ubuntu&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-00ff41?style=for-the-badge&logo=debian&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch-00ff41?style=for-the-badge&logo=archlinux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════  DASHBOARD ROW 2 — STATS  ════════════════════════════ -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mich0rtega&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=00ff41&icon_color=39ff14&text_color=00ff41&bg_color=0a0a0a&border_color=00ff41&hide_border=false" width="100%"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🌐 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mich0rtega&layout=compact&langs_count=8&theme=chartreuse-dark&title_color=00ff41&text_color=00ff41&bg_color=0a0a0a&border_color=00ff41" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ─── STREAK ──────────────────────────────────────────────────────────────── -->
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mich0rtega&theme=dark&hide_border=false&border=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&background=0a0a0a&stroke=00ff41&dates=00cc33&sideLabels=00ff41)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<!-- ═══════════════════  DASHBOARD ROW 3 — TECH STACK  ═══════════════════════ -->
+
+### ⚡ `$ ./tech_stack.sh --all`
+
+<div align="center">
+
+**`[ LENGUAJES ]`**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=00ff41)
+
+**`[ FRONTEND ]`**
+
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00ff41)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=00ff41)
+![Vue](https://img.shields.io/badge/Vue-0a0a0a?style=for-the-badge&logo=vuedotjs&logoColor=00ff41)
+
+**`[ BACKEND ]`**
+
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=00ff41)
+![GraphQL](https://img.shields.io/badge/GraphQL-0a0a0a?style=for-the-badge&logo=graphql&logoColor=00ff41)
+
+**`[ 🗄️ BASES DE DATOS ❤️ ]`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=00ff41)
+![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=for-the-badge&logo=redis&logoColor=00ff41)
+![Oracle](https://img.shields.io/badge/Oracle-0a0a0a?style=for-the-badge&logo=oracle&logoColor=00ff41)
+![SQLServer](https://img.shields.io/badge/SQL_Server-0a0a0a?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff41)
+![Cassandra](https://img.shields.io/badge/Cassandra-0a0a0a?style=for-the-badge&logo=apachecassandra&logoColor=00ff41)
+
+**`[ ☁️ CLOUD & DEVOPS ]`**
+
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=00ff41)
+![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=for-the-badge&logo=microsoftazure&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
+![Terraform](https://img.shields.io/badge/Terraform-0a0a0a?style=for-the-badge&logo=terraform&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0a0a0a?style=for-the-badge&logo=github-actions&logoColor=00ff41)
+
+**`[ 📊 DATA ENGINEERING ]`**
+
+![Kafka](https://img.shields.io/badge/Kafka-0a0a0a?style=for-the-badge&logo=apache-kafka&logoColor=00ff41)
+![Spark](https://img.shields.io/badge/Spark-0a0a0a?style=for-the-badge&logo=apachespark&logoColor=00ff41)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=00ff41)
+![Airflow](https://img.shields.io/badge/Airflow-0a0a0a?style=for-the-badge&logo=apacheairflow&logoColor=00ff41)
+
+</div>
+
+---
+
+<!-- ═══════════════════  DASHBOARD ROW 4 — PROYECTOS  ════════════════════════ -->
+
+### 🚀 `$ ls ~/projects/ -la`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🐧 `ALPRO`**
+
+```
+┌─────────────────────┐
+│  Sistema de gestión │
+│  y procesamiento    │
+│  con arquitectura   │
+│  robusta            │
+└─────────────────────┘
+```
+![TS](https://img.shields.io/badge/TS-00ff41?style=flat-square&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/Py-00ff41?style=flat-square&logo=python&logoColor=black)
+![Linux](https://img.shields.io/badge/🐧-00ff41?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+**🐧 `MEBAND`**
+
+```
+┌─────────────────────┐
+│  Plataforma         │
+│  escalable con      │
+│  enfoque en datos   │
+│  y rendimiento      │
+└─────────────────────┘
+```
+![JS](https://img.shields.io/badge/JS-00ff41?style=flat-square&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/Node-00ff41?style=flat-square&logo=nodedotjs&logoColor=black)
+![DB](https://img.shields.io/badge/DB-00ff41?style=flat-square&logo=postgresql&logoColor=black)
+
+</td>
+<td align="center" width="33%">
+
+**🐧 `AUDAM`**
+
+```
+┌─────────────────────┐
+│  Arquitectura de    │
+│  software e         │
+│  inteligencia de    │
+│  datos              │
+└─────────────────────┘
+```
+![TS](https://img.shields.io/badge/TS-00ff41?style=flat-square&logo=typescript&logoColor=black)
+![Cloud](https://img.shields.io/badge/Cloud-00ff41?style=flat-square&logo=amazonaws&logoColor=black)
+![Data](https://img.shields.io/badge/Data-00ff41?style=flat-square&logo=apachespark&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════  DASHBOARD ROW 5 — ACTIVITY + TROPHIES  ═════════════ -->
+
+<table width="100%">
+<tr>
+<td valign="top" align="center">
+
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mich0rtega&theme=matrix&no-frame=false&margin-w=5&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+
+### 📈 Actividad
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mich0rtega&bg_color=0a0a0a&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=001a00&hide_border=false&border_color=00ff41)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ════════════════════  FOOTER  ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+        .-"""-.              .-"""-.              .-"""-.
+       /  🐧   \            /  🐧   \            /  🐧   \
+      /  Linux  \          /  Linux  \          /  Linux  \
+      "In Tux We Trust — Mich0rtega — github.com/Mich0rtega"
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/Mich0rtega)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Mich0rtega)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=130&section=footer&text=🐧+Powered+by+Linux&fontSize=20&fontColor=00ff41&fontAlignY=65"/>
+
+</div>
