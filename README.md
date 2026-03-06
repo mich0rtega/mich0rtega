@@ -13,21 +13,18 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Mich0rtega&color=00ff41&style=for-the-badge&label=VISITAS+AL+PERFIL)
 [![Followers](https://img.shields.io/github/followers/Mich0rtega?style=for-the-badge&color=00ff41&labelColor=0a0a0a&label=Followers)](https://github.com/Mich0rtega)
-![Linux](https://img.shields.io/badge/🐧_Linux-lover-00ff41?style=for-the-badge&labelColor=0a0a0a)
+![Linux](https://img.shields.io/badge/🐧_Linux-Lover-00ff41?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
 ---
 
-<!--  ██████╗  █████╗ ███████╗██╗  ██╗██████╗  ██████╗  █████╗ ██████╗ ██████╗  -->
-<!-- ═══════════════════  DASHBOARD ROW 1  ═══════════════════════════════════════ -->
-
 <table width="100%">
 <tr>
 <!-- ── LEFT: ABOUT ME ─────────────────────────────────── -->
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🐧 `$ cat about_me.sh`
+### 🖥️ `$ cat about_me.sh`
 
 ```bash
 #!/bin/bash
@@ -37,8 +34,6 @@
 
 NAME="Michelle Ortega"
 ALIAS="Mich0rtega"
-OS="Linux 🐧 (y no hay otro)"
-FAVORITE_ANIMAL="Tux, el pingüino de Linux"
 
 ROLES=(
   "🌐 Full Stack Developer"
@@ -57,30 +52,20 @@ echo "En Linux confiamos. En los datos vivimos."
 ```
 
 </td>
-<!-- ── RIGHT: TUX HIGHLIGHT ───────────────────────────── -->
-<td width="50%" valign="top" align="center">
+<!-- ── RIGHT: TUX ─────────────────────────────────────── -->
+<td width="45%" valign="top" align="center">
 
 ### 🐧 Mi animal favorito
 
-```
-        .-"""-.
-       /        \
-      /_  __   _ \
-     | )/\  /\| |      T  U  X
-     |/  \/\/  \|
-      \  (oo)  /     El pingüino más
-       \  \/  /      famoso del mundo
-        \ || /
-    .----'||'----.
-   /  Mich0rtega  \
-  /________________\
-  "In Tux We Trust"
-```
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/200px-Tux.svg.png" width="140px" alt="Tux - Linux Mascot"/>
+
+**Tux** — La mascota oficial de Linux  
+*El pingüino más famoso del mundo* 🌍
 
 ![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-00ff41?style=for-the-badge&logo=ubuntu&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-00ff41?style=for-the-badge&logo=debian&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch-00ff41?style=for-the-badge&logo=archlinux&logoColor=black)
+
+> *"In Tux We Trust"*
 
 </td>
 </tr>
@@ -88,7 +73,7 @@ echo "En Linux confiamos. En los datos vivimos."
 
 ---
 
-<!-- ═══════════════════  DASHBOARD ROW 2 — STATS  ════════════════════════════ -->
+<!-- ═══════════════  STATS  ═══════════════════════════════════════════════════ -->
 
 <table width="100%">
 <tr>
@@ -96,7 +81,7 @@ echo "En Linux confiamos. En los datos vivimos."
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mich0rtega&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=00ff41&icon_color=39ff14&text_color=00ff41&bg_color=0a0a0a&border_color=00ff41&hide_border=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mich0rtega&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=00ff41&icon_color=39ff14&text_color=00ff41&bg_color=0a0a0a&border_color=00ff41" width="100%"/>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -109,7 +94,6 @@ echo "En Linux confiamos. En los datos vivimos."
 </tr>
 </table>
 
-<!-- ─── STREAK ──────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mich0rtega&theme=dark&hide_border=false&border=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&background=0a0a0a&stroke=00ff41&dates=00cc33&sideLabels=00ff41)](https://git.io/streak-stats)
@@ -118,7 +102,7 @@ echo "En Linux confiamos. En los datos vivimos."
 
 ---
 
-<!-- ═══════════════════  DASHBOARD ROW 3 — TECH STACK  ═══════════════════════ -->
+<!-- ═══════════════  TECH STACK  ══════════════════════════════════════════════ -->
 
 ### ⚡ `$ ./tech_stack.sh --all`
 
@@ -129,7 +113,6 @@ echo "En Linux confiamos. En los datos vivimos."
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=00ff41)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=00ff41)
 
 **`[ FRONTEND ]`**
@@ -137,24 +120,25 @@ echo "En Linux confiamos. En los datos vivimos."
 ![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00ff41)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=00ff41)
-![Vue](https://img.shields.io/badge/Vue-0a0a0a?style=for-the-badge&logo=vuedotjs&logoColor=00ff41)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=00ff41)
+![MUI](https://img.shields.io/badge/Material_UI-0a0a0a?style=for-the-badge&logo=mui&logoColor=00ff41)
 
 **`[ BACKEND ]`**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=00ff41)
 ![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=00ff41)
-![GraphQL](https://img.shields.io/badge/GraphQL-0a0a0a?style=for-the-badge&logo=graphql&logoColor=00ff41)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=00ff41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=00ff41)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=for-the-badge&logo=prisma&logoColor=00ff41)
 
 **`[ 🗄️ BASES DE DATOS ❤️ ]`**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00ff41)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00ff41)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=00ff41)
-![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=for-the-badge&logo=redis&logoColor=00ff41)
 ![Oracle](https://img.shields.io/badge/Oracle-0a0a0a?style=for-the-badge&logo=oracle&logoColor=00ff41)
-![SQLServer](https://img.shields.io/badge/SQL_Server-0a0a0a?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff41)
-![Cassandra](https://img.shields.io/badge/Cassandra-0a0a0a?style=for-the-badge&logo=apachecassandra&logoColor=00ff41)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=00ff41)
+![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=00ff41)
 
 **`[ ☁️ CLOUD & DEVOPS ]`**
 
@@ -162,125 +146,115 @@ echo "En Linux confiamos. En los datos vivimos."
 ![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=for-the-badge&logo=microsoftazure&logoColor=00ff41)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00ff41)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
-![Terraform](https://img.shields.io/badge/Terraform-0a0a0a?style=for-the-badge&logo=terraform&logoColor=00ff41)
 ![GitHub Actions](https://img.shields.io/badge/GH_Actions-0a0a0a?style=for-the-badge&logo=github-actions&logoColor=00ff41)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0a0a0a?style=for-the-badge&logo=cloudinary&logoColor=00ff41)
 
-**`[ 📊 DATA ENGINEERING ]`**
+**`[ 📊 DATA & AI ]`**
 
 ![Kafka](https://img.shields.io/badge/Kafka-0a0a0a?style=for-the-badge&logo=apache-kafka&logoColor=00ff41)
 ![Spark](https://img.shields.io/badge/Spark-0a0a0a?style=for-the-badge&logo=apachespark&logoColor=00ff41)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=00ff41)
-![Airflow](https://img.shields.io/badge/Airflow-0a0a0a?style=for-the-badge&logo=apacheairflow&logoColor=00ff41)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0a?style=for-the-badge&logo=openai&logoColor=00ff41)
 
 </div>
 
 ---
 
-<!-- ═══════════════════  DASHBOARD ROW 4 — PROYECTOS  ════════════════════════ -->
+<!-- ═══════════════  PROYECTOS  ═══════════════════════════════════════════════ -->
 
 ### 🚀 `$ ls ~/projects/ -la`
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<!-- ALPRO -->
+<td width="33%" valign="top" align="center">
 
 **🐧 `ALPRO`**
 
-```
-┌─────────────────────┐
-│  Sistema de gestión │
-│  y procesamiento    │
-│  con arquitectura   │
-│  robusta            │
-└─────────────────────┘
-```
-![TS](https://img.shields.io/badge/TS-00ff41?style=flat-square&logo=typescript&logoColor=black)
-![Python](https://img.shields.io/badge/Py-00ff41?style=flat-square&logo=python&logoColor=black)
-![Linux](https://img.shields.io/badge/🐧-00ff41?style=flat-square)
+Sistema de gestión empresarial con módulos de **inventario**, **ventas**, **cotizaciones**, **nómina**, **empleados** y **clientes**. Incluye chat en tiempo real vía Pusher y gestión de roles.
+
+<br/>
+
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=00ff41)
+![DRF](https://img.shields.io/badge/DRF-0a0a0a?style=flat-square&logo=django&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PG-0a0a0a?style=flat-square&logo=postgresql&logoColor=00ff41)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=00ff41)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0a0a0a?style=flat-square&logo=cloudinary&logoColor=00ff41)
 
 </td>
-<td align="center" width="33%">
+<!-- MEBAND -->
+<td width="33%" valign="top" align="center">
 
 **🐧 `MEBAND`**
 
-```
-┌─────────────────────┐
-│  Plataforma         │
-│  escalable con      │
-│  enfoque en datos   │
-│  y rendimiento      │
-└─────────────────────┘
-```
-![JS](https://img.shields.io/badge/JS-00ff41?style=flat-square&logo=javascript&logoColor=black)
-![Node](https://img.shields.io/badge/Node-00ff41?style=flat-square&logo=nodedotjs&logoColor=black)
-![DB](https://img.shields.io/badge/DB-00ff41?style=flat-square&logo=postgresql&logoColor=black)
+Plataforma médica con expedientes clínicos, **signos vitales**, recetas, vacunas, consultas, citas, dispositivos wearable vía MQTT y alertas automáticas con IA (OpenAI + HuggingFace).
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00ff41)
+![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=00ff41)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0a?style=flat-square&logo=openai&logoColor=00ff41)
+![MQTT](https://img.shields.io/badge/MQTT-0a0a0a?style=flat-square&logo=mqtt&logoColor=00ff41)
 
 </td>
-<td align="center" width="33%">
+<!-- AUDAM -->
+<td width="33%" valign="top" align="center">
 
 **🐧 `AUDAM`**
 
-```
-┌─────────────────────┐
-│  Arquitectura de    │
-│  software e         │
-│  inteligencia de    │
-│  datos              │
-└─────────────────────┘
-```
-![TS](https://img.shields.io/badge/TS-00ff41?style=flat-square&logo=typescript&logoColor=black)
-![Cloud](https://img.shields.io/badge/Cloud-00ff41?style=flat-square&logo=amazonaws&logoColor=black)
-![Data](https://img.shields.io/badge/Data-00ff41?style=flat-square&logo=apachespark&logoColor=black)
+Sistema de gestión de activos y almacén con **requisiciones**, **movimientos**, **catálogo**, **centros de costo**, auditoría, generación de PDFs y autorización multinivel (Admin, Almacén, Compras).
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TS-0a0a0a?style=flat-square&logo=typescript&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=00ff41)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PG-0a0a0a?style=flat-square&logo=postgresql&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00ff41)
+![MUI](https://img.shields.io/badge/MUI-0a0a0a?style=flat-square&logo=mui&logoColor=00ff41)
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- ═══════════════════  DASHBOARD ROW 5 — ACTIVITY + TROPHIES  ═════════════ -->
+<!-- ═══════════════  TROPHIES + ACTIVITY  ════════════════════════════════════ -->
 
-<table width="100%">
-<tr>
-<td valign="top" align="center">
+<div align="center">
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mich0rtega&theme=matrix&no-frame=false&margin-w=5&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Mich0rtega&theme=matrix&no-frame=false&margin-w=5&row=1&column=7" alt="GitHub Trophies"/>
 
-</td>
-</tr>
-<tr>
-<td valign="top" align="center">
+</div>
+
+<div align="center">
 
 ### 📈 Actividad
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mich0rtega&bg_color=0a0a0a&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=001a00&hide_border=false&border_color=00ff41)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ════════════════════  FOOTER  ══════════════════════════════════════════════ -->
+<!-- ═══════════════  FOOTER  ══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-        .-"""-.              .-"""-.              .-"""-.
-       /  🐧   \            /  🐧   \            /  🐧   \
-      /  Linux  \          /  Linux  \          /  Linux  \
-      "In Tux We Trust — Mich0rtega — github.com/Mich0rtega"
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/Mich0rtega)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/michelle-ortega-58208732b/)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Mich0rtega)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=130&section=footer&text=🐧+Powered+by+Linux&fontSize=20&fontColor=00ff41&fontAlignY=65"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=100&section=footer"/>
 
 </div>
