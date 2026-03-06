@@ -48,24 +48,23 @@ ROLES=(
 LANGUAGES=("TypeScript" "Python" "JavaScript")
 STATUS="🟢 online & deploying"
 
-echo "En Linux confiamos. En los datos vivimos."
+
 ```
 
 </td>
 <!-- ── RIGHT: TUX ─────────────────────────────────────── -->
 <td width="45%" valign="top" align="center">
 
-### 🐧 Mi animal favorito
+### 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/200px-Tux.svg.png" width="140px" alt="Tux - Linux Mascot"/>
 
-**Tux** — La mascota oficial de Linux  
-*El pingüino más famoso del mundo* 🌍
+
 
 ![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-00ff41?style=for-the-badge&logo=ubuntu&logoColor=black)
 
-> *"In Tux We Trust"*
+
 
 </td>
 </tr>
@@ -228,13 +227,6 @@ Sistema de gestión de activos y almacén con **requisiciones**, **movimientos**
 
 <!-- ═══════════════  TROPHIES + ACTIVITY  ════════════════════════════════════ -->
 
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mich0rtega&theme=matrix&no-frame=false&margin-w=5&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 <div align="center">
 
