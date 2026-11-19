@@ -45,7 +45,10 @@ ROLES=(
   "📊 Data Engineer"
 )
 
-LANGUAGES=("TypeScript" "Python" "JavaScript")
+LANGUAGES=("TypeScript" "C#" "Python" "JavaScript" "SQL")
+NOW="📋 PM + Full Stack @ Vitta Integral (GWINY Software)"
+AGENCY="🏢 Co-fundadora de GEMLEX · GWINY Software"
+STUDY="🎓 Ing. Desarrollo y Gestión de Software — UTD (2027)"
 STATUS="🟢 online & deploying"
 
 
@@ -112,6 +115,7 @@ STATUS="🟢 online & deploying"
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=00ff41)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=00ff41)
 
 **`[ FRONTEND ]`**
@@ -129,6 +133,8 @@ STATUS="🟢 online & deploying"
 ![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=00ff41)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=00ff41)
 ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=for-the-badge&logo=prisma&logoColor=00ff41)
+![NestJS](https://img.shields.io/badge/NestJS-0a0a0a?style=for-the-badge&logo=nestjs&logoColor=00ff41)
+![.NET](https://img.shields.io/badge/.NET-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=00ff41)
 
 **`[ 🗄️ BASES DE DATOS ❤️ ]`**
 
@@ -146,6 +152,8 @@ STATUS="🟢 online & deploying"
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00ff41)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
 ![GitHub Actions](https://img.shields.io/badge/GH_Actions-0a0a0a?style=for-the-badge&logo=github-actions&logoColor=00ff41)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0a0a0a?style=for-the-badge&logo=digitalocean&logoColor=00ff41)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0a0a0a?style=for-the-badge&logo=cloudflare&logoColor=00ff41)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-0a0a0a?style=for-the-badge&logo=cloudinary&logoColor=00ff41)
 
 **`[ 📊 DATA & AI ]`**
@@ -165,6 +173,54 @@ STATUS="🟢 online & deploying"
 ### 🚀 `$ ls ~/projects/ -la`
 
 <table width="100%">
+<tr>
+<!-- VITTA INTEGRAL -->
+<td width="33%" valign="top" align="center">
+
+**🐧 `VITTA INTEGRAL`** · *en curso*
+
+Plataforma a medida con **integración IoT**, **chatbots con IA** para capacitación del personal y **DevOps completo** (túneles para demos, hosting propio con despliegue por SSH). Rol: **PM + Full Stack**.
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=00ff41)
+![NestJS](https://img.shields.io/badge/NestJS-0a0a0a?style=flat-square&logo=nestjs&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=00ff41)
+![IoT](https://img.shields.io/badge/IoT-0a0a0a?style=flat-square&logo=mqtt&logoColor=00ff41)
+
+</td>
+<!-- CHOKOLOMIX -->
+<td width="33%" valign="top" align="center">
+
+**🐧 [`CHOKOLOMIX`](https://chokolomix.gwiny.com.mx)** · *live*
+
+Sitio comercial y de distribución para marca de snacks con **+300 puntos de venta**. SSR, formulario de distribuidores validado con Zod hacia WhatsApp, **CSP con nonce**, CSRF y pruebas con Vitest.
+
+<br/>
+
+![React 19](https://img.shields.io/badge/React_19-0a0a0a?style=flat-square&logo=react&logoColor=00ff41)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-0a0a0a?style=flat-square&logo=reactquery&logoColor=00ff41)
+![Tailwind 4](https://img.shields.io/badge/Tailwind_4-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=00ff41)
+![Vitest](https://img.shields.io/badge/Vitest-0a0a0a?style=flat-square&logo=vitest&logoColor=00ff41)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0a0a0a?style=flat-square&logo=cloudflare&logoColor=00ff41)
+
+</td>
+<!-- MADETTA -->
+<td width="33%" valign="top" align="center">
+
+**🐧 `MADETTA ERP`**
+
+ERP de **nueve módulos** para fabricante de mobiliario, con **reloj checador biométrico** y **lectores de código de barras**. Lideré un equipo de 4 como PM y construí la API.
+
+<br/>
+
+![.NET 10](https://img.shields.io/badge/.NET_10-0a0a0a?style=flat-square&logo=dotnet&logoColor=00ff41)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=dotnet&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00ff41)
+
+</td>
+</tr>
 <tr>
 <!-- ALPRO -->
 <td width="33%" valign="top" align="center">
@@ -243,6 +299,7 @@ Sistema de gestión de activos y almacén con **requisiciones**, **movimientos**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/michelle-ortega-58208732b/)
+[![Portfolio](https://img.shields.io/badge/Portafolio-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=00ff41)](https://mich0rtega.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Mich0rtega)
 
 <br/>
